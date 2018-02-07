@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com.ejemplo.OtroPoryectoSpringMvcJava8/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com.ejemplo.OtroPoryectoSpringMvcJava8/xml/ns/javaee http://java.sun.com.ejemplo.OtroPoryectoSpringMvcJava8/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
+  <display-name>OtroPoryectoSpringMvcJava8</display-name>
+  <welcom.ejemplo.OtroPoryectoSpringMvcJava8e-file-list>
+    <welcom.ejemplo.OtroPoryectoSpringMvcJava8e-file>index.html</welcom.ejemplo.OtroPoryectoSpringMvcJava8e-file>
+    <welcom.ejemplo.OtroPoryectoSpringMvcJava8e-file>index.htm</welcom.ejemplo.OtroPoryectoSpringMvcJava8e-file>
+    <welcom.ejemplo.OtroPoryectoSpringMvcJava8e-file>index.jsp</welcom.ejemplo.OtroPoryectoSpringMvcJava8e-file>
+    <welcom.ejemplo.OtroPoryectoSpringMvcJava8e-file>default.html</welcom.ejemplo.OtroPoryectoSpringMvcJava8e-file>
+    <welcom.ejemplo.OtroPoryectoSpringMvcJava8e-file>default.htm</welcom.ejemplo.OtroPoryectoSpringMvcJava8e-file>
+    <welcom.ejemplo.OtroPoryectoSpringMvcJava8e-file>default.jsp</welcom.ejemplo.OtroPoryectoSpringMvcJava8e-file>
+  </welcom.ejemplo.OtroPoryectoSpringMvcJava8e-file-list>
+</web-app>

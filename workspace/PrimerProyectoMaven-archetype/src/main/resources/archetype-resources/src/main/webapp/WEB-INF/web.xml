@@ -1,0 +1,15 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.${package}/xml/ns/javaee" xsi:schemaLocation="http://java.sun.${package}/xml/ns/javaee http://java.sun.${package}/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
+  <display-name>${artifactId}</display-name>
+  <wel${package}e-file-list>
+    <wel${package}e-file>index.html</wel${package}e-file>
+    <wel${package}e-file>index.htm</wel${package}e-file>
+    <wel${package}e-file>index.jsp</wel${package}e-file>
+    <wel${package}e-file>default.html</wel${package}e-file>
+    <wel${package}e-file>default.htm</wel${package}e-file>
+    <wel${package}e-file>default.jsp</wel${package}e-file>
+  </wel${package}e-file-list>
+</web-app>
