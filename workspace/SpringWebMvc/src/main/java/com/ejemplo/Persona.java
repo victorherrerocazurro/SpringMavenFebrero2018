@@ -1,8 +1,14 @@
 package com.ejemplo;
 
+import javax.validation.constraints.Min;
+
+import org.hibernate.validator.constraints.NotEmpty;
+
 public class Persona {
 
+	@NotEmpty
 	private String nombre;
+	@Min(3)
 	private int edad;
 	public String getNombre() {
 		return nombre;
