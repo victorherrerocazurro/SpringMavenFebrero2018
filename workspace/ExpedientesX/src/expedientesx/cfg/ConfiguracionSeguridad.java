@@ -67,12 +67,12 @@ public class ConfiguracionSeguridad extends WebSecurityConfigurerAdapter {
                 .rememberMeCookieName("my-remember-me")
                 .tokenValiditySeconds(86400);
         
-        http
+        /*http
         	.requiresChannel()
                 .anyRequest().requiresSecure()
             .and()
             	.portMapper()
-                	.http(8080).mapsTo(8443);
+                	.http(8080).mapsTo(8443);*/
         
         http
         	.sessionManagement()
